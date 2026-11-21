@@ -175,7 +175,3 @@ npx newman run postman/Catalogo.postman_collection.json -e postman/Catalogo.post
 
 La colección cubre: registro/login correctos, correo duplicado y credenciales incorrectas; CRUD completo como administrador con filtro por categoría; precio inválido y campos vacíos; producto inexistente; 401 sin token / inválido / vencido; 403 con rol usuario; favoritos (crear, consultar, eliminar, duplicado 409, inexistente 404); aislamiento entre usuarios A y B; consistencia al eliminar un producto; y persistencia tras reiniciar.
 
-## Recursos y herramientas de apoyo
-
-- Documentación de Express, `jsonwebtoken`, `bcryptjs` y `better-sqlite3`.
-- Asistente de IA (Claude) como apoyo para generar la estructura base del proyecto; el código fue revisado, probado y explicado por los integrantes.
