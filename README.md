@@ -4,9 +4,7 @@ API desarrollada con **Node.js + Express** para gestionar un catálogo de produc
 
 ## Autor
 
-- **Nombre Apellido1 Apellido2** — Desarrollo Web, UNEMI (trabajo individual).
-
-> Reemplaza el nombre antes de entregar.
+- **Veronica Pin Suarez**
 
 ## Propósito
 
