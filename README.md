@@ -152,7 +152,6 @@ src/
   utils/                   Validaciones y errores HTTP
 scripts/                   init-db, seed, crear-admin
 postman/                   Colección y entorno de pruebas
-docs/                      Plantilla de entrega y guion del video
 ```
 
 ## Pruebas (Postman)
