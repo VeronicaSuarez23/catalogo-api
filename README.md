@@ -41,7 +41,7 @@ Roles: `usuario` y `administrador`.
 ## Instalación
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/VeronicaSuarez23/catalogo-api.git
 cd catalogo-api
 npm install
 ```
